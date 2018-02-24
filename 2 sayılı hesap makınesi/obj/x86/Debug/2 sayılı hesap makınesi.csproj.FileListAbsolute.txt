@@ -1,0 +1,10 @@
+c:\users\asus\documents\visual studio 2010\Projects\2 sayılı hesap makınesi\2 sayılı hesap makınesi\bin\Debug\2 sayılı hesap makınesi.exe
+c:\users\asus\documents\visual studio 2010\Projects\2 sayılı hesap makınesi\2 sayılı hesap makınesi\bin\Debug\2 sayılı hesap makınesi.pdb
+c:\users\asus\documents\visual studio 2010\Projects\2 sayılı hesap makınesi\2 sayılı hesap makınesi\obj\x86\Debug\_2_sayılı_hesap_makınesi.Form1.resources
+c:\users\asus\documents\visual studio 2010\Projects\2 sayılı hesap makınesi\2 sayılı hesap makınesi\obj\x86\Debug\_2_sayılı_hesap_makınesi.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\2 sayılı hesap makınesi\2 sayılı hesap makınesi\obj\x86\Debug\2 sayılı hesap makınesi.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2010\Projects\2 sayılı hesap makınesi\2 sayılı hesap makınesi\obj\x86\Debug\2 sayılı hesap makınesi.exe
+c:\users\asus\documents\visual studio 2010\Projects\2 sayılı hesap makınesi\2 sayılı hesap makınesi\obj\x86\Debug\2 sayılı hesap makınesi.pdb
+C:\Users\asus\Documents\Visual Studio 2010\Projects\2 sayılı hesap makınesi\2 sayılı hesap makınesi\obj\x86\Debug\2 sayılı hesap makınesi.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\git\2 sayılı hesap makınesi\2 sayılı hesap makınesi\obj\x86\Debug\2 sayılı hesap makınesi.exe
+C:\Users\asus\Desktop\git\2 sayılı hesap makınesi\2 sayılı hesap makınesi\obj\x86\Debug\2 sayılı hesap makınesi.pdb
